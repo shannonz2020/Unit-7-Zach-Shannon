@@ -1,12 +1,24 @@
-public class GovernmentOfficial extends Citizen {
+public class GovernmentOfficial extends Citizen implements Comparable {
     private String governmentPosition;
 
-    public GovernmentOfficial(String governmentPosition, String firstName, String lastName, String politicalParty){
+    public GovernmentOfficial(String firstName, String lastName, String politicalParty, String governmentPosition){
         super(firstName, lastName, politicalParty);
         this.governmentPosition = governmentPosition;
     }
     //unique methods:
-
+    public String makeCake(String type){
+        return this.getFirstName() + " made a " + type + " cake, yay!";
+    }
+    @Override
+    public String makePancakes(){
+        return this.getFirstName() + " made some amazing pancakes!";
+    }
+    //comparable
+    //governmentOfficial
+    public int compareTo(Object other){
+        GovernmentOfficial someone = (GovernmentOfficial) other;
+        return this.governmentPosition.compareTo(someone.governmentPosition);
+    }
     //getters, setters, toString:
     public String getGovernmentPosition() {
         return governmentPosition;

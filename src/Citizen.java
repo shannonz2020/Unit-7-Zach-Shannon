@@ -9,7 +9,13 @@ public class Citizen {
         this.politicalParty = politicalParty;
     }
     //unique methods:
-    public void vote
+    public String vote(String something){
+        return "I voted for " + something + "!";
+    }
+
+    public String makePancakes(){
+        return this.getFirstName() + " made pancakes, yum!";
+    }
 
     //getters, setters, toString:
     public String getFirstName() {

@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8656ad1-6544-45d1-a23d-b19d9944ebb8" name="Default Changelist" comment="">
+    <list default="true" id="390bc4ce-29fe-400f-99e9-3ffc16ecbf5a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Citizen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Citizen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GovernmentOfficial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GovernmentOfficial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/President.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/President.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PresidentTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yacht.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +23,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -70,6 +64,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="605" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1584028394995" />
+    <state x="980" y="188" key="FileChooserDialogImpl" timestamp="1588040191821">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="980" y="188" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1588040191821" />
     <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1584032028949">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -86,10 +84,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1584032028949" />
-    <state x="182" y="50" key="new project wizard" timestamp="1584026110262">
+    <state x="182" y="50" key="new project wizard" timestamp="1588040195853">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="182" y="50" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1584026110262" />
+    <state x="182" y="50" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1588040195853" />
     <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1584028088839">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
